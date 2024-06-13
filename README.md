@@ -8,6 +8,6 @@
 click [here](https://pouria-mobaraki.github.io/Dictionary-word/) to see demo
 
 ## About the project
-I used Api from this site (https://api.dictionaryapi.dev/api/v2/entries/en/word) and fetch information with promise method.
+I used Api from this source (https://api.dictionaryapi.dev/api/v2/entries/en/word) and fetch information with promise method.
 <br>
 after that I showed them in DOM by html template in javascript.
